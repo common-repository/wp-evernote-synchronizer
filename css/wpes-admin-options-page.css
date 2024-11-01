@@ -1,0 +1,58 @@
+.popup-object-taxonomy-options-background {
+	display: none;
+	position: fixed;
+	top: 32px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+	z-index: 100000;
+	background-color: #000000;
+	opacity: 0.5;
+
+}
+.popup-object-taxonomy-options {
+	display: none;
+	position: fixed;
+	top: 42px;
+	left: 10px;
+	right: 10px;
+	bottom: 10px;
+
+	z-index: 100001;
+	background-color: #FFFFFF;
+
+	padding: 30px;
+}
+
+#wpes-ajax-message {
+
+}
+
+#wpes-ajax-message h4 {
+
+	padding: 5px;
+
+	font-size: 16px;
+
+	border-top: solid #000000 1px;
+	border-bottom: solid #000000 1px;
+
+}
+
+#wpes-ajax-message p {
+	word-break: break-all;
+}
+
+#wpes-ajax-message p.wpes-message-info {
+	color: blue;
+}
+#wpes-ajax-message p.wpes-message-notice {
+	color: green;
+}
+#wpes-ajax-message p.wpes-message-warning {
+	color: yellow;
+}
+#wpes-ajax-message p.wpes-message-error {
+	color: red;
+}

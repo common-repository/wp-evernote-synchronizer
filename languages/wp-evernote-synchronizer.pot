@@ -1,0 +1,406 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2017-01-22 18:05+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-evernote-synchronizer.php:108 wp-evernote-synchronizer.php:110
+msgid "Evernotes"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:109 wp-evernote-synchronizer.php:111
+msgid "Evernote"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:112
+msgid "Add new"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:113
+msgid "Add New Evernotes"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:114
+msgid "New Evernote"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:115
+msgid "Edit Evernote"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:116
+msgid "View Evernote"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:117
+msgid "All Evernotes"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:118
+msgid "Search Evernotes"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:119
+msgid "Parent Evernotes:"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:120
+msgid "No Evernotes found."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:121
+msgid "No Evernotes found in Trash."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:144
+msgid "Notebooks"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:145 wp-evernote-synchronizer.php:154
+#: wp-evernote-synchronizer.php:350 wp-evernote-synchronizer.php:557
+msgid "Notebook"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:146
+msgid "Search Notebooks"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:147
+msgid "All Notebooks"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:148
+msgid "Parent Notebook"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:149
+msgid "Parent Notebook:"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:150
+msgid "Edit Notebook"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:151
+msgid "Update Notebook"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:152
+msgid "Add New Notebook"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:153
+msgid "New Notebook Name"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:169
+msgid "Tags"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:170 wp-evernote-synchronizer.php:179
+msgid "Tag"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:171
+msgid "Search Tags"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:172
+msgid "All Tags"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:173
+msgid "Parent Tag"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:174
+msgid "Parent Tag:"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:175
+msgid "Edit Tag"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:176
+msgid "Update Tag"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:177
+msgid "Add New Tag"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:178
+msgid "New Tag Name"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:224 wp-evernote-synchronizer.php:225
+msgid "Settings"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:248
+msgid "Evernote Settings"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:269
+msgid "Common Settings"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:272
+msgid "Last Update : "
+msgstr ""
+
+#: wp-evernote-synchronizer.php:274 wp-evernote-synchronizer.php:620
+msgid "Current Time : "
+msgstr ""
+
+#: wp-evernote-synchronizer.php:276
+msgid "Next Update : "
+msgstr ""
+
+#: wp-evernote-synchronizer.php:276 wp-evernote-synchronizer.php:632
+msgid "Suspended"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:287
+msgid "Evernote Developer Token"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:291
+msgid ""
+"Enter <a target=\"_blank\" href=\"https://www.evernote.com/api/"
+"DeveloperToken.action\">Developer Token</a> to import notes from the "
+"account. This will importe notes as pages written by User ID \"1\".<br>In "
+"order to import notes as pages written by each user, please set the Token in "
+"page \"Your Profile\"."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:299
+msgid "Imported Note Status"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:303
+msgid "Select the status of Pages when imported."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:304 wp-evernote-synchronizer.php:987
+msgid "Draft"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:305 wp-evernote-synchronizer.php:987
+msgid "Publish"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:312
+msgid "Suspend Mode"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:316
+msgid ""
+"Suspend the Auto Synchronization by Cron. ( This suspends calling update "
+"function called in Cron )"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:323
+msgid "Interval"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:327
+msgid "Interval( Minutes ) of import action."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:336
+msgid "Post Type Detection"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:338
+msgid ""
+"If you want to update pages for each post type,<br>check the box and create "
+"Notebooks on the Evernote account.<br>Pages will be imported as a page of "
+"the post type.<br> If you don't want to import( or update ), remove the "
+"check.<br><br><strong>* You must set the unique notebook name even if the "
+"check is removed.<br>( It may cause problems to USE Same Notebook for other "
+"Post Type )</strong><br>"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:347
+msgid "Post Type"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:417 wp-evernote-synchronizer.php:427
+msgid "Exclude Tags"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:419
+msgid "Notes which have at least one of tags below will not be imported."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:431
+msgid "Commas Separate"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:440
+msgid "Save"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:442
+msgid ""
+"Before click the button \"Update Now\", Please Save the Settings Above Once "
+"because this will use the saved data ( Not Current Settings Data on UI Above "
+"even if you changed )."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:444 wp-evernote-synchronizer.php:638
+msgid "Update Now"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:455
+msgid "Messages for \"Update Now\""
+msgstr ""
+
+#: wp-evernote-synchronizer.php:526
+msgid "Settings by WP Evernote Synchronier"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:539
+msgid "Evernote Token"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:543
+msgid ""
+"Enter <a target=\"_blank\" href=\"https://www.evernote.com/api/"
+"DeveloperToken.action\">Developer Token</a> to import notes from your "
+"account."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:553
+msgid ""
+"You can import notes in Notebook named following as Pages of Post Type."
+"<br>Please check available Post Types and Notebook Names."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:556
+msgid "Post Type:"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:593
+msgid "Exclued Tags:"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:596
+msgid "Notes which has at least one of tags following will not be imported."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:598
+#, php-format
+msgid "\"%s\""
+msgstr ""
+
+#: wp-evernote-synchronizer.php:611
+msgid "Last Auto Update : "
+msgstr ""
+
+#: wp-evernote-synchronizer.php:629
+msgid "Next Auto Update : "
+msgstr ""
+
+#: wp-evernote-synchronizer.php:694
+msgid "No token."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:716
+#, php-format
+msgid "Error User ID: %d"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:717
+msgid "Please, check the entered Token or the Expiration"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:761
+#, php-format
+msgid "Notebook \"%s\""
+msgstr ""
+
+#: wp-evernote-synchronizer.php:761
+#, php-format
+msgid "Post Type \"%s\""
+msgstr ""
+
+#: wp-evernote-synchronizer.php:860
+#, php-format
+msgid "Note \"%s\" has the Exclude Tag."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:869
+#, php-format
+msgid ""
+"Skip the note \"%s\" because it has already been imported and not updated in "
+"Evernote."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:987
+#, php-format
+msgid "Inserting Note \"%1$s\" in the status \"%2$s\""
+msgstr ""
+
+#: wp-evernote-synchronizer.php:989
+#, php-format
+msgid "Updating Note \"%1$s\" in the saved status."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1409
+#, php-format
+msgid "Saved the tags below as terms of %s"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1427
+#, php-format
+msgid ""
+"Saved the tags below as terms of %s because they are non-registered terms"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1567
+msgid "Interval of Evernote Update Action in Seconds"
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1609
+msgid "Evernote Token is not set for the Common Account."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1613
+msgid "Importing from Common Account."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1654 wp-evernote-synchronizer.php:1690
+#, php-format
+msgid "Evernote Token is not set for User ID \"%s\""
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1663
+#, php-format
+msgid "Evernote Token for User ID \"%s\" is a Duplicate of others."
+msgstr ""
+
+#: wp-evernote-synchronizer.php:1694
+#, php-format
+msgid "Importing from User Account. ID : \"%d\""
+msgstr ""
